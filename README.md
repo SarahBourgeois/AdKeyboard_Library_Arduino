@@ -13,7 +13,7 @@ You can buy this keyboard [here](https://www.ebay.com/itm/144292596073).
 :one: **Download the release of the library :** 
 ![Download link of the release](https://github.com/SarahBourgeois/AdKeyboard_manager_Arduino_library/releases/download/v1.0.0/AdKeyboard_manager_V1.h).
 
-:two: **Add this file into your libraries Arduino folder**
+:two: **Add this file into your libraries Arduino folder**.
 
 ## Usage
 In your file ***.ino*** add this : 
