@@ -1,4 +1,4 @@
-# :video_game: AdKeyboard_manager_Arduino_library :video_game: 
+# :video_game: AdKeyboard Manager, Arduino library :video_game: 
 ----
 #### The library to control your Arduino AdKeyboard
 
