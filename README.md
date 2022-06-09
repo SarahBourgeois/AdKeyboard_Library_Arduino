@@ -25,7 +25,7 @@ You can buy this kind of keyboard [here](https://www.ebay.com/itm/144292596073)
 ## Usage
 In your file ***.ino*** add this : 
 ```sh
-#include "keys_manager.h"
+#include "AdKeyboard_manager.h"
 ```
 
 To controll the different keys : 
