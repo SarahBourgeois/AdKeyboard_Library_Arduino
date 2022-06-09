@@ -1,4 +1,4 @@
-# :video_game: AdKeyboard Manager, Arduino library :video_game: 
+# :video_game: AdKeyboard Libray :video_game: 
 ----
 #### The library to control your Arduino AdKeyboard easier !!
 
@@ -8,7 +8,7 @@ You can buy this kind of keyboard [here](https://www.ebay.com/itm/144292596073)
 **You can control some keyboards like this or others with 3 pins : 
 - VCC 
 - GROUND 
-- an OUT / S etc**
+- an OUT / S etc
 
 
 ![](img/adkeyboard.png)
