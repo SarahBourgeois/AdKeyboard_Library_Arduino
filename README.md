@@ -1,4 +1,4 @@
-# :video_game: AdKeyboard Libray :video_game: 
+# :video_game: AdKeyboard Arduino Library :video_game: 
 ----
 #### The library to control your Arduino AdKeyboard easier !!
 
